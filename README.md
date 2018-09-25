@@ -1,1 +1,1 @@
-# Sinif_Planlama
+Ayni isimde kayitli olan  ögrenciler txt dosyasindan cikarilmistir. Kayitlar numara sirasina gore duzenlenmistir. Dersi alan orgun ve gece ogrencileri sayisi belirlenmistir. kayitli ogrenciler kullanici tarafindan belirtilcek sinif sayisina dagitilacaktir.
